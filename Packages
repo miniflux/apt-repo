@@ -1,0 +1,240 @@
+Package: miniflux
+Architecture: amd64
+Version: 2.0.4
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9283
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.4_amd64.deb
+Size: 2681708
+MD5sum: 3834bea376971ac3d051f1225820de20
+SHA1: e796885044331a45a419815db30dabacbedf56f9
+SHA256: dc7c11b8e2db51000401870a0b4a48413dd1e2f3f592acbf4bf51393a93f0945
+SHA512: 99adc4be33b158249c024c25811f8cd63d98adcf63880aa26fb33cf799738848838c0475f8cdec0d39b6843a722b52722e3134e23e783b408a03fe272c638b0d
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.15
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 11785
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.15_amd64.deb
+Size: 3567062
+MD5sum: 7677259f3a38dcbf47525b5b02279083
+SHA1: 67c6daa6598772a10b67cc0f5a8d2f33876eeec5
+SHA256: 7bd4e2d10ceb67b3d1cfa616f8195dc8f58205242dfc4835d7e88bdbe507a744
+SHA512: 50eb0138a27073c240f5eed8c909c81103f617751aaac6ecfa9a293129c2ce5358803b9cc078422da2f3cb6bfe43f81e20b7e82542d870046f814eed7d9032cf
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.9
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9387
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.9_amd64.deb
+Size: 2703534
+MD5sum: 28276b8556bd941b610c41bd66bfda9c
+SHA1: d53c818e643cc6869e3e1f4851384f97f1c9b96b
+SHA256: ef0250784ac3eae9cdedecdb85cc66516c33577dffd966b28748ae2a4bbf8c62
+SHA512: 55418d7e199eb84e2a1e2a7059ae30d77a455f072ad20ec2608dcf0a6b41870dc593c2c5ded05b8b1f2f2ae171b5c4c9910e5e2837a2e80bee36860b4189b038
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.2
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9333
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.2_amd64.deb
+Size: 2636530
+MD5sum: 9978ad3a7a0de681107ae3c0e265f27f
+SHA1: a986845c589cb9f693e1ef8ac7d0cb038b175d8d
+SHA256: 621456473015b53663e1f6c963132fd60e558ebd3f93deba261edf340172a54a
+SHA512: a6b03a245c3d2221f617767de62a3b0d6367faaf6a3b022e8632ba89d5472f2f1b15ea15085a5e84e78d6a6b19a063299b67647890996d979341122e7641a208
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.13
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 10985
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.13_amd64.deb
+Size: 3297444
+MD5sum: 4e1c9767645941a41af52d600ecf766d
+SHA1: 1a9345f05882995ed6d5a7030decb6cc42d3c6c0
+SHA256: b89a345e87984047f64060f083ec6c4dc8f369c7ad9b9e3d6b41e1f4e26ec49a
+SHA512: b452ce975f949eb496a056e018e39d33b96c3388b21767ae1593aab1064e162580ebd5f441645664f1adee9cbe791f905a4529de459903bd478c7e53db4393e0
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.5
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9299
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.5_amd64.deb
+Size: 2682130
+MD5sum: d8c36d198b0114ce9cb1f32289328868
+SHA1: 5b7a82644ed78979a305e8e5826249c55cc19d15
+SHA256: 93cb041ddfb58f1a54f9e3b109b1b10d655e61c4f2b123d355caf9bd7aba8353
+SHA512: 0962088eacf7a9ec8671dc2ecd62355423ffaf60e53667132777377fa5e831751085379722a088cf8418063a24d77f8877067568dedea088ff22d27d42c28b6e
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.14
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 11037
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.14_amd64.deb
+Size: 3311940
+MD5sum: 8a5dafee62d083f91320c9a28a16b44f
+SHA1: 8d3a38ec6f03fdffb20de09ed8142f4a2c1b0293
+SHA256: 37c228bb35066247e2425a3a4121fec4adc2ebe6c15c5e8e9efdc57847ff4099
+SHA512: 6c69a08ed992420c11329e5fc903c23079f00fb622e3acd4d1566e3fc392b833e253a7f0cbaa5cf39189e9c5c564aa5b5802cda57f3a017dbae5388474bc3b68
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.8
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9347
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.8_amd64.deb
+Size: 2696234
+MD5sum: 5e5bb0073cc8a5fe00f392f5d81476dc
+SHA1: cfe99fe411bf86ebd2955e872db0c7126551add6
+SHA256: b62d0e971aa707fc47e8f0050d9ff55681abbdae15cf00fe237ec55ea16f588e
+SHA512: a2ebcef079009c86946485f64b6dece916f198e8b14c0165c3568fa3fbb44306fe6389d3486b6ab1daa65bedebf787f3aeba46334596e5819eb93665f0478d01
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.3
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9263
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.3_amd64.deb
+Size: 2675056
+MD5sum: ef749f72cb01b66b791722d313a958c3
+SHA1: 22c32cadb71be07ff5582484fa5174b165fd0fea
+SHA256: 3b4761bb6ac12e740e17cd511f0dbe5370c0d60e68d6b80f1be45e0071e64b38
+SHA512: 94040d55e3dc3e0d26b997004e05f22177987067e748fcd6129983185a14dc578facf8f809d968bb4f9f62645be87ba4eb789da2818d972301d1c7e466c9efcf
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.12
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 10985
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.12_amd64.deb
+Size: 3299710
+MD5sum: 4a147d7c60efd8d50f6fb7187853dd32
+SHA1: 3abd87f63a961181365eea9d993eee09e7bd8ba5
+SHA256: 7ccadd1bac30c6abe42b8e92226102f90098e621d28bbe393244f5816e86aca8
+SHA512: 5b53921d6f1f74625ef07081c8418cfcca352e97215c11e45441eea313e47f08e24f3d705ace5e1d0bf421ee9f352471beb4eb17118de7850caf41b5a1a221f5
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.6
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9307
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.6_amd64.deb
+Size: 2684442
+MD5sum: 9eb30b41c70b7baf14c71313e45a8911
+SHA1: 2460c99a0813baee9b71d109d2d769346628d989
+SHA256: 8759078f5a8dfbd872ae78b168a53cbd7b9676598341c6687ef5a0e2de60f23e
+SHA512: 285de624c007d4c59dae9760db6f10963a409a52b65a719c37f09e52cb0d527157360cb99c06104ede4510dd285f75eef1add5c94704c07e7233caaae1ca0f8d
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.0
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9288
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.0_amd64.deb
+Size: 2624404
+MD5sum: db993cede140bb62f1a99b981788346d
+SHA1: 7706687d4d2a35840176a990a26e7f41673b5558
+SHA256: b8697107542c5e52b64225154ae60373c7ff0fe6016530c8e3f4c0934cedb530
+SHA512: 3d81075919c21fa83c3d1a654d23a953cd160eee3c125438a0d58232bdc3f5ee753d74fcbd3c20a9b74d7e59b820d54cfb33dd27103b34f6c49b27a2635dcd59
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.11
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 10893
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.11_amd64.deb
+Size: 3281510
+MD5sum: 6818656f83253fc0be5144417e90f7d0
+SHA1: 5e64ab907925a556c2be5048fe80d0055730415d
+SHA256: cd07f1ad705d9c9e42d4770bb11ab237b16ab1fdf7ccd72f3c87931f00499c11
+SHA512: 6af7a3059183d84040176b684c56fc1724917772e43547ab5cc55e15a8ba5c5138d9ccbe57a7b08b3d45bace63f545a586255de025101a3abf591706f6ad3937
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.7
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9327
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.7_amd64.deb
+Size: 2691194
+MD5sum: 68fd7acbb870c98b72a03c950a4da569
+SHA1: 3c4ec06fa8264d283d0f512e7377de9864386cd0
+SHA256: f069b5c8ef7e495efcc1a0baf9965f7828a615378dea3c66779c14813c3f8ce1
+SHA512: eb27e2c224be691ee8c2bdea6503562bbdee61d5eeff138f8a3f3452f2d63ffd2857f38dd8904bd671865de710b6c4e4344e2e09482a5acbc7fbf92085f42309
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.1
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9309
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.1_amd64.deb
+Size: 2628604
+MD5sum: 39db23b51a8f7a4c95b0268b4800e33c
+SHA1: ba181c1b713f0bb03ef53d9f0eb07fda13b4f3a7
+SHA256: 4f87ef9f11db39202604bd083e18341130ce996a8ed98c068e9da74076257863
+SHA512: 27dc31ee3650630ef0cd400bf7716b880ab7acf14fb0c65d2b1449e83140d4c42f72c3795627c6e4c4b69c2cd60804c08bb7ad690db3b9dc3e480c1e3cf065ce
+Homepage: https://miniflux.net/
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
+Version: 2.0.10
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 9498
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.10_amd64.deb
+Size: 2735368
+MD5sum: 1b24ca8bd1eb22ae2c70284867a03838
+SHA1: cba76f8a68d534e43d582dafcc416438658e7400
+SHA256: 8b257cc55b02f1b2249dc28e099f08f358bfc88c254124725367887682ad4d7e
+SHA512: d1de12f0bf0d0ca7da852c90f72ee610fa4f5d98fc81e8a85cd4b1682aaf476216d9ee424367695c69f736f14e08e86e33dfe368f3ebf3cc99664f8595f65f71
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
