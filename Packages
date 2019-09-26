@@ -135,6 +135,23 @@ Description: Minimalist Feed Reader
 
 Package: miniflux
 Architecture: amd64
+Version: 2.0.18
+Priority: optional
+Section: web
+Maintainer: Frédéric Guillot <fred@miniflux.net>
+Installed-Size: 12187
+Depends: init-system-helpers (>= 1.18~), adduser
+Filename: ./miniflux_2.0.18_amd64.deb
+Size: 3675130
+MD5sum: a04973910b17350c5760e5ef90608628
+SHA1: 74e26291b407b3dcb8714b8f88487c94afec071b
+SHA256: c8e39b6691c9a3bee3604738cad2c1fe6a847d1877e5d317f25e8952e3761913
+SHA512: ee5b7636bc597ce7afc812635be0e8a1ce6124e54a8c6e08a38ad9ea633ea9358268fad37f44746ffa01015c0604a6919a9fc2c0196842c9647a0431195303b6
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+
+Package: miniflux
+Architecture: amd64
 Version: 2.0.1
 Maintainer: Frédéric Guillot <fred@miniflux.net>
 Installed-Size: 9309
