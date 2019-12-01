@@ -1,7 +1,8 @@
 APT / Debian Repository
 =======================
 
-Configure the repository:
+Repository Configuration
+------------------------
 
 ```bash
 curl -s https://apt.miniflux.app/KEY.gpg | sudo apt-key add -
@@ -10,7 +11,8 @@ apt update
 apt install miniflux
 ```
 
-Instructions to update the repo:
+Update Repository Index
+-----------------------
 
 ```bash
 docker run -it --rm -v `pwd`:/repo debian:latest \
@@ -18,4 +20,3 @@ docker run -it --rm -v `pwd`:/repo debian:latest \
 gpg --default-key $GPG_KEY_ID -abs -o - Release > Release.gpg
 gpg --default-key $GPG_KEY_ID --clearsign -o - Release > InRelease
 ```
-
