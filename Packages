@@ -223,13 +223,13 @@ Priority: optional
 Section: web
 Maintainer: Frédéric Guillot <fred@miniflux.net>
 Installed-Size: 12720
-Depends: init-system-helpers (>= 1.18~), adduser
+Depends: adduser
 Filename: ./miniflux_2.0.22_amd64.deb
-Size: 3842312
-MD5sum: 1fd40702dd73e3ad422f937832e58e44
-SHA1: fbd805adfff121123b0b1779e82d9c689f1014a1
-SHA256: e41b8e00d1ef98cd9655ff20294f85d78d38c4d38f31c4a850591430c2ca44f2
-SHA512: f7a8cddf8d7f945f6c5cc601141db04136493c8b1a3aeb0976c35df178081b77c6e64f3f23cdf60dc8a52735fe3481402da1fde8761be033189eb492134f241f
+Size: 3842588
+MD5sum: 988a7809211f79c916f2c413acf1c57e
+SHA1: 97908b8c9fc2cc0afca67e5d915c9f5c41586949
+SHA256: 569b9cbee974c79aaa07d82480d02c4bca4977d6a3760b9eb9919c5b3ce07baf
+SHA512: d65c44eda794a501918156859576173aaf575e97afc6c100530bb7c48eec5c7755275d2ef91efab3883be36de78b0f5faf6de01e03aa857bb90eae2c9c411b50
 Homepage: https://miniflux.app
 Description: Minimalist Feed Reader
 
