@@ -16,7 +16,7 @@ Update Repository Index
 
 ```bash
 docker run -it --rm -v `pwd`:/repo debian:latest \
-    bash -c "apt update && apt install -y apt-utils && cd /repo && apt-ftparchive --arch amd64 packages . > Packages && gzip -k -f Packages && apt-ftparchive release . > Release"
+    bash -c "apt update && apt install -y apt-utils && cd /repo && apt-ftparchive packages . > Packages && gzip -k -f Packages && apt-ftparchive release . > Release"
 gpg --default-key $GPG_KEY_ID -abs -o - Release > Release.gpg
 gpg --default-key $GPG_KEY_ID --clearsign -o - Release > InRelease
 ```
