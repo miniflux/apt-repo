@@ -554,6 +554,60 @@ Description: Minimalist Feed Reader
 
 Package: miniflux
 Architecture: amd64
+Version: 2.0.30
+Priority: optional
+Section: web
+Maintainer: Frédéric Guillot <f@miniflux.net>
+Installed-Size: 14830
+Depends: libc6 (>= 2.3.2), adduser
+Filename: ./miniflux_2.0.30_amd64.deb
+Size: 4184104
+MD5sum: 432e3d632a4be65fa0036a6b7de268ef
+SHA1: 95e1636cf02f58d13b89f17c51e6ff88bd364e6e
+SHA256: 9cc1da18d0400b8ca56152f457e171907e566224e275a8b0c7e158c4ba9833b0
+SHA512: 3d414044ed870bb88706720ec491e84596f3338ae9a222ac96ec58f117e3ab6617867d4f4144977f14bce7ffab66972f5ca74bda96c8c50b163a87273fe5591c
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+ Miniflux is a minimalist and opinionated feed reader
+
+Package: miniflux
+Architecture: arm64
+Version: 2.0.30
+Priority: optional
+Section: web
+Maintainer: Frédéric Guillot <f@miniflux.net>
+Installed-Size: 13849
+Depends: libc6 (>= 2.17), adduser
+Filename: ./miniflux_2.0.30_arm64.deb
+Size: 3599768
+MD5sum: 02d625d62716982d5bda51bca5af2728
+SHA1: f2214f88571ce473ab8aab8d137d416996ef1e4b
+SHA256: 12a7ffb4239d5af9b3899e93fbb59a9b64299672b00c21e7a3da914e156851d4
+SHA512: 8dafbd04da623cfe20d0069410fb10ee67290bd9f756ff71ba95f785c047a047e5369d6c000d02ce4bd30584eea3304bd3898917ef969837b01853b574e04525
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+ Miniflux is a minimalist and opinionated feed reader
+
+Package: miniflux
+Architecture: armhf
+Version: 2.0.30
+Priority: optional
+Section: web
+Maintainer: Frédéric Guillot <f@miniflux.net>
+Installed-Size: 12634
+Depends: libc6 (>= 2.4), adduser
+Filename: ./miniflux_2.0.30_armhf.deb
+Size: 3627748
+MD5sum: 64d853d5fa79dc1967f42d803e3ba834
+SHA1: ae37320317a7ae1bd787987416fbeb99dedce9db
+SHA256: e8fd6282df002c342482b66f0eb2dc0b7d3c5c84e6144e39d1a5dfccd358535f
+SHA512: 1fff1ea810a18b602adc859887626b7f5d3067ecb0ff514b483db7dadb8764622f9e291a6b551fc1387967801827364cd870ffe0edb47f7c654aab47e1659f29
+Homepage: https://miniflux.app
+Description: Minimalist Feed Reader
+ Miniflux is a minimalist and opinionated feed reader
+
+Package: miniflux
+Architecture: amd64
 Version: 2.0.3
 Maintainer: Frédéric Guillot <fred@miniflux.net>
 Installed-Size: 9263
